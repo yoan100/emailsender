@@ -34,7 +34,10 @@ This is just a simple project i built during summer vacation.
 ---
 
 ## Usage
-1. Prepare an HTML file:
+1. Prepare an HTML file
+
+example code:
+
    ```html
    <html>
      <body>
