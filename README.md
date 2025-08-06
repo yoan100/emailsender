@@ -29,7 +29,7 @@ This is just a simple project i built during summer vacation.
      DEFAULT_PASSWORD = "your_app_password"
      SMTP_SERVER = "smtp.gmail.com"
      ```
-   - Use an [App Password for Gmail](https://support.google.com/accounts/answer/185833).
+   - Use an [App Password For Gmail](https://support.google.com/mail/answer/185833?hl=en).
      
 ---
 
