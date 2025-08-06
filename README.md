@@ -1,6 +1,6 @@
 # Email Sender (Made with python)
 
---
+---
 
 This is just a simple project i built during summer vacation.
 
