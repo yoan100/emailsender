@@ -57,5 +57,6 @@ example code:
 - Gmail sending limit: ~500 emails/day for normal accounts.
 - All emails will be sent to **one recipient**. For multiple recipients, the script needs an extension.
 - The script is new, create an issue if you need help!
+- Email providers may flag your emails as spam! Edit the code if you want to bypass a certain spam filter.
 
 ---
