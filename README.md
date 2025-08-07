@@ -23,7 +23,7 @@ This is just a simple project i built during summer vacation.
 1. **Download the script**
 
 2. **Edit the script**:
-   - Open `bulk_mailer.py` and set:
+   - Open the main python file and set:
      ```python
      DEFAULT_EMAIL = "your_email@gmail.com"
      DEFAULT_PASSWORD = "your_app_password"
