@@ -41,21 +41,14 @@ example code:
    ```html
    <html>
      <body>
-       <h1>Hello!</h1>
-       <p>This is a test email.</p>
+       <h1>example</h1>
+       <p>example</p>
      </body>
    </html>
    ```
 
-2. Run the script:
-   ```bash
-   python3 bulk_mailer.py
-   ```
+2. Run the script
 
-3. Enter:
-   - Recipient email address
-   - Number of emails (1–100)
-   - Path to your HTML file
 
 ---
 
